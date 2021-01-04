@@ -9,6 +9,6 @@ Companies have a critical focus on customer relationship management because it d
 
 In this research process, a dataset of 10,000 customer profiles have been obtained to acquire insights related to customer churn and to build a predictive model to select features that correlate to churn. The proposed research question in this analysis is:
 
-<b>What characteristics in the customer’s profile correlates to their churn?<b>
+<b>What characteristics in the customer’s profile correlates to their churn?</b>
 
 This is the goal of this study because understanding a customer’s point of view can help the organization learn what are the underlying causes for customers to terminate their business relationship with the company. Concurrently, it also helps the organization understand what are the attractive aspects that make a customer stay. Knowing this information can help a company improve on certain services for their customer, while maintaining the quality of service that has aided customer retention.
